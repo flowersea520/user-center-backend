@@ -7,7 +7,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     #    这里写生产环境地址 （线上地址）
     url: jdbc:mysql://39.101.78.159:3306/usercenter
-    username: root
+    username: lxc
     password: 123456
   # session 失效时间
   session:
